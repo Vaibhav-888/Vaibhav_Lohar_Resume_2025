@@ -63,3 +63,11 @@ B.Tech in Chemical Engineering â€” North Maharashtra University, Jalgaon (2017â€
 </ul>
 
 <hr>
+
+<ul>
+  <li>
+    <a href="" target="_blank">Microsoft Azure Fundamentals</a>
+  </li>
+</ul>
+
+
