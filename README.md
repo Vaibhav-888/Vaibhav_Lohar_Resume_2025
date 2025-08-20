@@ -11,11 +11,11 @@
 
 <h2 style="color:#2196F3;">🎯 Objective</h2>
 <p>
-Experienced Python Developer with 3.6+ years of hands-on expertise in building scalable applications. Skilled in Python, SQL, Linux, and API integration. Strong foundation in data structures, algorithms, and OOP. Passionate about delivering high-quality code and driving innovation in agile environments.
+Experienced Python Developer with 3.6+ years of hands-on expertise in building scalable applications. Skilled in Python, FastAPI, Flask, SQL, Linux, and API integration. Strong foundation in data structures, algorithms, and OOP. Passionate about delivering high-quality code and driving innovation in agile environments.
 </p>
 
 <h2 style="color:#2196F3;">💼 Experience</h2>
-<h3>Tata Consultancy Services Ltd. — Python Developer (2021 – Present)</h3>
+<h3>Tata Consultancy Services Ltd. — Python Developer (2021 – 2025)</h3>
 <ul>
   <li>Developed real-time invoice generation API integrated with government portals.</li>
   <li>Built GSTIN service API to fetch and update customer data dynamically.</li>
@@ -66,7 +66,7 @@ B.Tech in Chemical Engineering — North Maharashtra University, Jalgaon (2017�
 
 <ul>
   <li>
-    <a href="" target="_blank">Microsoft Azure Fundamentals</a>
+    <a href="30069182_Vaibhav_Lohar_Python_Dev.pdf" target="_blank">Microsoft Azure Fundamentals</a>
   </li>
 </ul>
 
